@@ -1,4 +1,10 @@
-# suffix_tree.py
+##########################################
+# File: suffix_tree.py                   #
+# Copyright Richard Stebbing 2014.       #
+# Distributed under the MIT License.     #
+# (See accompany file LICENSE or copy at #
+#  http://opensource.org/licenses/MIT)   #
+##########################################
 
 # Suffix tree construction using Ukkonen's algorithm
 # Refer to: http://stackoverflow.com/questions/9452701/
